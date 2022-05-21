@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ivyee17.
-- 👀 I’m interested in building deep learning model.
-- 🌱 I’m currently learning federated learning.
+- 👀 I’m interested in the deep learning model for voices.
+- 🌱 I’m currently learning these models and methods.
 - 💞️ I’m looking to collaborate on new collaborate AI topics and models.
 - 📫 How to reach me: whwu17@foxmail.com.
 
