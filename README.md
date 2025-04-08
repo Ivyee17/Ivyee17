@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ivyee17.
-- 👀 I’m interested in the deep learning model for voices.
+- 👀 I’m interested in the software development.
 - 🌱 I’m currently learning these models and methods.
-- 💞️ I’m looking to collaborate on new collaborate AI topics and models.
+- 💞️ I’m looking to collaborate on new collaborate with software developing engineers.
 - 📫 How to reach me: whwu17@foxmail.com.
 
 <!---
